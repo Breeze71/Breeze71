@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris
 - 👀 I’m interested in reading novel.
-- 🌱 I’m currently learning C++,C#(unity),java,html.
+- 🌱 I’m currently learning C++,C#(unity),java,blender,javascript.
 - 📫 How to reach me : j92080412@gmail.com
 
 <!---
