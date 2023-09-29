@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chris
+- 👋 Hi, I’m V
 - 👀 I’m interested in reading novel.
 - 🌱 I’m currently learning C#, Blender, Unity.
 - 📫 How to reach me : j92080412@gmail.com
