@@ -1,6 +1,7 @@
 - 👋 Hi, I’m V
 - 👀 I’m interested in reading novel.
-- 🌱 I’m currently learning C#, Blender, Unity.
+- 🌱 I’m currently learning HLSL, Shader, Rendering.
+- ✨ Hope i can become a Technical Artist.
 - 📫 How to reach me : j92080412@gmail.com
 
 <!---
